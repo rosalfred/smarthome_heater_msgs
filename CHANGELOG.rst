@@ -2,8 +2,8 @@
 Changelog for package heater_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.1.19 (2016-05-29)
+-------------------
 * Add license
 * Update package file description
 * Contributors: Erwan Le Huitouze
