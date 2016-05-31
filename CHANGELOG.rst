@@ -1,6 +1,11 @@
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Changelog for package heater_msgs
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Changelog for package smarthome_heater_msgs
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Forthcoming
+-----------
+* Rename package to smarthome_heater_msgs
+* Contributors: Alfred Team, Erwan Le Huitouze, Mickael Gaillard
 
 0.1.19 (2016-05-29)
 -------------------
