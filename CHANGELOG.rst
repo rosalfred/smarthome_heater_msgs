@@ -2,8 +2,8 @@
 Changelog for package smarthome_heater_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.1.21 (2016-05-31)
+-------------------
 * Update script
 * Contributors: Erwan Le Huitouze
 
