@@ -2,6 +2,11 @@
 Changelog for package smarthome_heater_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Update script
+* Contributors: Erwan Le Huitouze
+
 0.1.20 (2016-05-31)
 -------------------
 * Rename package to smarthome_heater_msgs
