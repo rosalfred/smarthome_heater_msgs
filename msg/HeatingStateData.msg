@@ -1,7 +1,7 @@
 ## State data heating message
 ## Common state of heating
 
-Header header
+std_msgs/Header header
 
 # PID
 float64 proportional
@@ -9,10 +9,10 @@ float64 integral
 float64 derivative
 
 # Goal
-sensor_msgs/Temperature temperatureReal
-sensor_msgs/Temperature temperatureGoal
-HeatingTemperatureSlot timeSlotCurrent
+sensor_msgs/Temperature temperature_real
+sensor_msgs/Temperature temperature_goal
+HeatingTemperatureSlot time_slot_current
 
 # States
-bool heaterState
-bool sensorState
+bool heater_state
+bool sensor_state

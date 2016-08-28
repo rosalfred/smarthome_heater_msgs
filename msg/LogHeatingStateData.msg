@@ -1,7 +1,7 @@
 ## State data temperature sensor message
 ## Common state of temperature sensor
 
-Header header
+std_msgs/Header header
 
 string date
 HeatingStateData statedata
